@@ -1,72 +1,84 @@
-# 👋 Hi, I'm Abiodun Fadipe
+# Abiodun Fadipe
 
-![Header](https://user-images.githubusercontent.com/your-image-link-here/header-image.png)  
+Hello, GitHub! 👋
 
-I’m an **aspiring Front-End Developer** and experienced educator passionate about building responsive, accessible, and user-focused web applications. I enjoy combining my teaching background with web development to create meaningful digital experiences.  
+I'm **Abiodun Fadipe**, a Front-End Developer and aspiring full-stack developer. I am passionate about creating clean, accessible, and functional websites that enhance user experience. My background in teaching has strengthened my communication, problem-solving, and collaboration skills, which I bring into every project.  
 
----
-
-## 🧑‍💻 About Me
-- 🌱 Currently learning: **React.js**, **Tailwind CSS**, **Next.js**  
-- 🎯 Goals: Build interactive, responsive web apps and contribute to open-source projects  
-- 💬 Ask me about: Front-end development, UI/UX, responsive design, and problem-solving  
+Currently, I am pursuing a **Certificate in Web and Computer Programming** at Brigham Young University–Idaho (BYU–Pathway Worldwide), where I’ve gained hands-on experience with HTML, CSS, JavaScript, responsive design, and version control using Git.
 
 ---
 
-## 🛠 Technical Skills
+## About Me
+
+- I'm currently learning **React.js** and **Tailwind CSS**.
+- My goal is to combine education and technology to create interactive learning tools and meaningful digital experiences.
+- Ask me about web development, teaching, or project management.
+
+---
+
+## Technologies & Tools
+
 <div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### [Personal Financial Calculator](https://github.com/abbey-fad/project2pt2)  
-Python-based Tkinter GUI for budget and expense tracking.  
-- Input validation, clear/reset functionality, and error handling  
-- Tested with Pytest for accuracy  
-
-### [Temple Album Web Page](https://github.com/abbey-fad/wdd231-project)  
-Responsive image gallery using HTML, CSS Grid, Flexbox, and JavaScript hamburger menu.  
-- Optimized for accessibility, SEO, and performance  
-
-### [Node.js API Project](https://github.com/abbey-fad/cse341-af-abiodun-code)  
-RESTful APIs with Node.js, Express, and MongoDB  
-- CRUD operations and Postman testing  
-
-### [React Dashboard App](https://github.com/abbey-fad/wdd330-finalproject)  
-React-based dashboard with reusable components and Tailwind CSS  
-- Integrated authentication and routing  
-
-### [Full-Stack Portfolio Project](https://github.com/abbey-fad/cse-341-code-abiodunfinal-project)  
-Combined React front-end and Express back-end with MVC architecture  
-- Git version control and GitHub collaboration  
+### 1. Personal Financial Calculator
+![Personal Financial Calculator Screenshot](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
+- Built a Python-based tool with a Tkinter GUI for budget and expense tracking.
+- Added input validation, clear/reset functionality, and error handling.
+- Tested functions using Pytest for accuracy and reliability.  
+**Repo:** [project2pt2](https://github.com/abbey-fad/project2pt2)
 
 ---
 
-## 📊 GitHub Stats
-![Abiodun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbey-fad&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbey-fad&layout=compact&theme=radical)
+### 2. Temple Album Web Page
+![Temple Album Screenshot](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
+- Developed a responsive image gallery using HTML, CSS Grid, and Flexbox.
+- Added a mobile hamburger menu with JavaScript for improved UX.
+- Optimized for accessibility, SEO, and performance using Lighthouse tools.  
+**Repo:** [wdd231-project](https://github.com/abbey-fad/wdd231-project)
 
 ---
 
-## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adebowale-fadipe-abiodun)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiodunfadipea@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abbey-fad)
+### 3. Node.js API Project
+![Node.js API Screenshot](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
+- Designed RESTful APIs using Node.js and Express with MongoDB.
+- Implemented CRUD operations and tested routes with Postman.  
+**Repo:** [cse341-af-abiodun-code](https://github.com/abbey-fad/cse341-af-abiodun-code)
 
 ---
 
-## 🌟 Fun Fact
-I combine **over 10 years of teaching experience** with coding to build interactive learning tools and web apps that make learning more engaging. 🚀
+### 4. React Dashboard App
+![React Dashboard Screenshot](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
+- Created a React-based dashboard with reusable components and Tailwind CSS.
+- Integrated authentication and routing to simulate production workflows.  
+**Repo:** [wdd330-finalproject](https://github.com/abbey-fad/wdd330-finalproject)
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abbey-fad&theme=radical)
+### 5. Full-Stack Portfolio Project
+![Full-Stack Portfolio Screenshot](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
+- Combined React front-end and Express back-end with MVC architecture.
+- Used Git for version control and collaboration on GitHub.  
+**Repo:** [cse-341-code-abiodunfinal-project](https://github.com/abbey-fad/cse-341-code-abiodunfinal-project)
+
+---
+
+## Let's Connect!
+
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adebowale-fadipe-abiodun)  
+[![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abbey-fad)  
+
+---
+
+## GitHub Stats
+
+![Abiodun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbey-fad&show_icons=true&theme=radical)
